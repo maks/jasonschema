@@ -1,6 +1,6 @@
 {
   "type": "object",
-  "id": "https://gliechtenstein.github.io/jasonschema/style/style.json",
+  "id": "https://maks.github.io/jasonschema/style/style.json",
   "additionalProperties": {
     "properties": {
       "align": {

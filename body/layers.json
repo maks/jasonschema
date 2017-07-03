@@ -59,10 +59,10 @@
           "type": "string"
         },
         "action": {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/action/action.json"
+          "$ref": "https://maks.github.io/jasonschema/action/action.json"
         },
         "style": {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/style/style.json"
+          "$ref": "https://maks.github.io/jasonschema/style/style.json"
         }
       }, {
         "type": {
@@ -73,10 +73,10 @@
           "pattern": "http:.*"
         },
         "action": {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/action/action.json"
+          "$ref": "https://maks.github.io/jasonschema/action/action.json"
         },
         "style": {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/style/style.json"
+          "$ref": "https://maks.github.io/jasonschema/style/style.json"
         }
       }]
     }

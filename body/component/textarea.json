@@ -1,5 +1,5 @@
 {
-  "id": "https://gliechtenstein.github.io/jasonschema/component/textarea.json",
+  "id": "https://maks.github.io/jasonschema/component/textarea.json",
   "properties": {
     "type": {
       "enum": ["textarea"]

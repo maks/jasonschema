@@ -1,25 +1,25 @@
 {
   "type": "object",
-  "id": "https://gliechtenstein.github.io/jasonschema/body/body.json",
+  "id": "https://maks.github.io/jasonschema/body/body.json",
   "additionalProperties": false,
   "properties": {
     "header": {
-      "$ref": "https://gliechtenstein.github.io/jasonschema/body/header.json"
+      "$ref": "https://maks.github.io/jasonschema/body/header.json"
     },
     "sections": {
       "type": "array",
       "items": {
-        "$ref": "https://gliechtenstein.github.io/jasonschema/body/sections.json"
+        "$ref": "https://maks.github.io/jasonschema/body/sections.json"
       }
     },
     "layers": {
       "type": "array",
       "items": {
-        "$ref": "https://gliechtenstein.github.io/jasonschema/body/layers.json"
+        "$ref": "https://maks.github.io/jasonschema/body/layers.json"
       }
     },
     "footer": {
-      "$ref": "https://gliechtenstein.github.io/jasonschema/body/footer.json"
+      "$ref": "https://maks.github.io/jasonschema/body/footer.json"
     }
   }
 }

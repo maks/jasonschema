@@ -1,5 +1,5 @@
 {
-  "id": "https://gliechtenstein.github.io/jasonschema/body/sections.json",
+  "id": "https://maks.github.io/jasonschema/body/sections.json",
   "type": "object",
   "properties": {
     "anyOf": [{
@@ -11,18 +11,18 @@
         "type": "array",
         "items": {
           "oneOf": [{
-            "$ref": "https://gliechtenstein.github.io/jasonschema/layout.json"
+            "$ref": "https://maks.github.io/jasonschema/layout.json"
           }, {
-            "$ref": "https://gliechtenstein.github.io/jasonschema/component/component.json"
+            "$ref": "https://maks.github.io/jasonschema/component/component.json"
           }]
         }
       }
     }, {
       "header": {
         "oneOf": [{
-          "$ref": "https://gliechtenstein.github.io/jasonschema/layout.json"
+          "$ref": "https://maks.github.io/jasonschema/layout.json"
         }, {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/component/component.json"
+          "$ref": "https://maks.github.io/jasonschema/component/component.json"
         }]
       }
     }]

@@ -8,14 +8,14 @@
       "oneOf": [{
         "type": "array",
         "items": {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/body/sections.json"
+          "$ref": "https://maks.github.io/jasonschema/body/sections.json"
         }
       }, {
         "patternProperties": {
           "{{#each.*}}": {
             "type": "object",
             "properties": {
-              "$ref": "https://gliechtenstein.github.io/jasonschema/body/sections.json"
+              "$ref": "https://maks.github.io/jasonschema/body/sections.json"
             }
           }
         }

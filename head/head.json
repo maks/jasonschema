@@ -1,6 +1,6 @@
 {
   "type": "object",
-  "id": "https://gliechtenstein.github.io/jasonschema/head/head.json",
+  "id": "https://maks.github.io/jasonschema/head/head.json",
   "additionalProperties": false,
   "properties": {
     "title": {
@@ -18,13 +18,13 @@
     "styles": {
       "type": "object",
       "additionalProperties": {
-        "$ref": "https://gliechtenstein.github.io/jasonschema/style/style.json"
+        "$ref": "https://maks.github.io/jasonschema/style/style.json"
       }
     },
     "actions": {
       "type": "object",
       "additionalProperties": {
-        "$ref": "https://gliechtenstein.github.io/jasonschema/action/action.json"
+        "$ref": "https://maks.github.io/jasonschema/action/action.json"
       }
     },
     "templates": {

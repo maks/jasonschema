@@ -1,7 +1,7 @@
 {
   "title": "JASON Schema",
   "type": "object",
-  "id": "https://gliechtenstein.github.io/jasonschema/jason.json",
+  "id": "https://maks.github.io/jasonschema/jason.json",
   "properties": {
     "$jason": {
       "type": "object",
@@ -10,10 +10,10 @@
       ],
       "properties": {
         "head": {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/head/head.json"
+          "$ref": "https://maks.github.io/jasonschema/head/head.json"
         },
         "body": {
-          "$ref": "https://gliechtenstein.github.io/jasonschema/body/body.json"
+          "$ref": "https://maks.github.io/jasonschema/body/body.json"
         }
       }
     }
