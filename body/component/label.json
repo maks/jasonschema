@@ -1,5 +1,5 @@
 {
-  "id": "https://maks.github.io/jasonschema/component/label.json",
+  "id": "https://maks.github.io/jasonschema/body/component/label.json",
   "properties": {
     "type": {
       "enum": [ "label" ] 

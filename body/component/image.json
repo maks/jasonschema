@@ -1,5 +1,5 @@
 {
-  "id": "https://maks.github.io/jasonschema/component/image.json",
+  "id": "https://maks.github.io/jasonschema/body/component/image.json",
   "properties": {
     "type": {
       "enum": ["image"]
