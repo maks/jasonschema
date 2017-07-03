@@ -11,18 +11,18 @@
         "type": "array",
         "items": {
           "oneOf": [{
-            "$ref": "https://maks.github.io/jasonschema/layout.json"
+            "$ref": "https://maks.github.io/jasonschema/body/layout.json"
           }, {
-            "$ref": "https://maks.github.io/jasonschema/component/component.json"
+            "$ref": "https://maks.github.io/jasonschema/body/component/component.json"
           }]
         }
       }
     }, {
       "header": {
         "oneOf": [{
-          "$ref": "https://maks.github.io/jasonschema/layout.json"
+          "$ref": "https://maks.github.io/jasonschema/body/layout.json"
         }, {
-          "$ref": "https://maks.github.io/jasonschema/component/component.json"
+          "$ref": "https://maks.github.io/jasonschema/body/component/component.json"
         }]
       }
     }]
