@@ -12,10 +12,10 @@
       "type": "object"
     },
     "success": {
-      "$ref": "https://maks.github.io/jasonschema/action/action.json"
+      "type": "object"
     },
     "error": {
-      "$ref": "https://maks.github.io/jasonschema/action/action.json"
+      "type": "object"
     }
   }
 }
